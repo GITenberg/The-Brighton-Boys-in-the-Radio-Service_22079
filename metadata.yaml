@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '4729'
     url: http://www.gutenberg.org/2009/agents/4729
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22079#The-Brighton-Boys-in-the-Radio-Service
 gutenberg_bookshelf:
 - Children's Book Series
 - World War I
